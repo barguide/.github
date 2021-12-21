@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://barguide.io/images/branding/barguide-256.png" height="200">
+  <a href="https://barguide.io" target="_blank">
+    <img src="https://barguide.io/images/branding/barguide-256.png" height="200">
+  </a>
 </p>
 
 <h1 align="center">
-  <a href="https://barguide.io">BarGuide.io</a>
+  <a href="https://barguide.io" target="_blank">BarGuide.io</a>
 </h1>
 <p align="center">
   A community-driven resource for finding and sharing bars.
