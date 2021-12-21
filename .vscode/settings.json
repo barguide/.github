@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [],
+  "editor.formatOnSave": true,
+  "git.enabled": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // @external https://code.visualstudio.com/api/references/theme-color
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#FD5A1E",
+    "titleBar.activeForeground": "#27251F"
+  },
+  "turboConsoleLog.quote": "`",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
