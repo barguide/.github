@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://barguide.io" target="_blank">
-    <img height="200" src="https://barguide.io/images/branding/barguide-256.png" />
+    <img height="200" src="https://barguide.io/branding/barguide-256.png" />
   </a>
   <h1>
     <a href="https://barguide.io" target="_blank">BarGuide.io</a>
